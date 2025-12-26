@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+*.crt
+.env
+
+*.yaml
+
+dvclive/
+.RData
+.Rhistory
+.dvc/
+testing/
+.pytest_cache/
+.vscode/
+apds/tp6/*.csv
