@@ -21,4 +21,5 @@ dvclive/
 testing/
 .pytest_cache/
 .vscode/
-apds/tp6/*.csv
+*.csv
+
