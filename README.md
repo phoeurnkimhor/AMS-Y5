@@ -9,15 +9,17 @@
 [![NLTK](https://img.shields.io/badge/NLTK-3.9.2-blue?logo=nltk&logoColor=white)](https://www.nltk.org/)
 
 
-This repository contains materials and exercises for all subjects in the **Applied Mathematics and Statistics (AMS) Year 5** program. The content is organized by subject and includes notes, assignments, exercises, and projects completed during the course.
+This repository contains exercises and homeworks for all subjects in the **Applied Mathematics and Statistics (AMS) Year 5 Semester 1** program of **Institute of Technology of Cambodia (ITC)**. The content is organized by subject and includes practical work and assignments.
 
----
+| Folder | Subject |
+|--------|---------|
+| `apds/` | **Advanced Programming for Data Science** |
+| `eda/` | **Exploratory Data Analysis** |
+| `iwr/` | **Information Web Retrieval** |
+| `nlp/` | **Natural Language Processing** |
+| `tsa/` | **Time Series Analysis** |
 
-Each folder contains:
 
-* Assignments and exercises
-* Projects and scripts
-* Supporting data files, if applicable
 
 
 
